@@ -1,0 +1,17 @@
+{
+  "name": "nhl-mastodon-bot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "elementemerald",
+  "license": "MIT",
+  "dependencies": {
+    "megalodon": "^5.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.19",
+    "dotenv": "^16.0.3",
+    "typescript": "^4.9.5"
+  }
+}
